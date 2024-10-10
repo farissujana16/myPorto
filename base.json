@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "judul": "SkillHub",
+    "deskripsi": "Skillhub is a very flexible, Education template which enables you to use it straight out of the box. It's retina ready and has a clutter free design with clean typography.",
+    "jenis": "Front-End",
+    "icon": "bx bx-code-alt",
+    "color": "blue",
+    "image": "assets/project/skillhub.jpg",
+    "url": "https://skill-hub-chi.vercel.app/"
+  },
+  {
+    "id": 2,
+    "judul": "Resto UI",
+    "deskripsi": "Skillhub is a very flexible, Education template which enables you to use it straight out of the box. It's retina ready and has a clutter free design with clean typography.",
+    "jenis": "Front-End",
+    "icon": "bx bx-code-alt",
+    "color": "blue",
+    "image": "assets/project/restoui.jpg",
+    "url": "https://resto-ui-murex.vercel.app/"
+  },
+  {
+    "id": 2,
+    "judul": "Resto UI",
+    "deskripsi": "Skillhub is a very flexible, Education template which enables you to use it straight out of the box. It's retina ready and has a clutter free design with clean typography.",
+    "jenis": "Front-End",
+    "icon": "bx bx-code-alt",
+    "color": "blue",
+    "image": "assets/project/restoui.jpg",
+    "url": "https://resto-ui-murex.vercel.app/"
+  }
+]
